@@ -46,9 +46,10 @@ export default function LoginPage() {
           boxShadow: "0 8px 24px rgba(0,0,0,0.25)",
         }}
       >
+       
         <h1 style={{ textAlign: "center", marginBottom: "20px", color: "#14785a" }}>
-          Login
-        </h1>
+   Login Form
+</h1>
 
         <input
           type="text"
